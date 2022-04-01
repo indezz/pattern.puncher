@@ -66,7 +66,7 @@ I am happy with how my project turned out, but if given the chance, i would spen
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/bjAcmXMMoD0)
 
 
 ## License
