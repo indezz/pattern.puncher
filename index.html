@@ -8,94 +8,103 @@
     <!-- Import the webpage's javascript file -->
     <script src="/script.js" defer></script>
   </head>
-  
-  <link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
-  
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"
+    rel="stylesheet"
+  />
 
   <body>
     <!-- The wrapper and content divs set margins and positioning -->
     <div class="wrapper">
       <div class="content" role="main">
-
-
         <!-- Instructions on using this project -->
         <div class="title">
           <h1><strong>Pattern Puncher</strong></h1>
           <p>
-              <li>Follow the flashing lights and repeat the pattern. </li>
-          <li>Every right response adds a step to the pattern.</li> 
+            <li>Follow the flashing lights and repeat the pattern.</li>
+            <li>Every right response adds a step to the pattern.</li>
             <li>3 strikes and you're out</li>
           </p>
         </div>
         
-        <div id="buttonArea" class="buttonArea">
-          <!--start/end button -->
-          <button id="startBtn" onclick="startGame()">begin!</button>
-          <button class="hidden" id="endBtn" onclick="endGame()">end!</button>
-          <!--timer -->
-          <div id="timerBox">
-            <strong><i>time remaining:</i><div id="timer"></div></strong>
-          </div>
-        </div>
+        
+        <div id="background">
+          
+          
+            <!--timer -->
+            <div id="timerBox">
+              <strong
+                ><i>time remaining:</i>
+                <div id="timer"></div></strong>
+            </div>
+            
+                        <!--start/end button -->
+            <div id="button">
+              <button id="startBtn" class="button start" onclick="startGame()">Start!</button>
+            <button class="hidden pause button" id="endBtn" onclick="endGame()">Stop!</button>
+            </div>
 
-        <!-- game button area-->
-        <div id="gameButtonArea" class="gameGrid">
-          <button
-            id="button1"
-            onmousedown="startTone(1)"
-            onmouseup="stopTone()"
-            onclick="guess(1)"
-          ></button>
-          <button
-            id="button2"
-            onmousedown="startTone(2)"
-            onmouseup="stopTone()"
-            onclick="guess(2)"
-          ></button>
-          <button
-            id="button3"
-            onmousedown="startTone(3)"
-            onmouseup="stopTone()"
-            onclick="guess(3)"
-          ></button>
-          <button
-            id="button4"
-            onmousedown="startTone(4)"
-            onmouseup="stopTone()"
-            onclick="guess(4)"
-          ></button>
-          <button
-            id="button5"
-            onmousedown="startTone(5)"
-            onmouseup="stopTone()"
-            onclick="guess(5)"
-          ></button>
-          <button
-            id="button6"
-            onmousedown="startTone(6)"
-            onmouseup="stopTone()"
-            onclick="guess(6)"
-          ></button>
-          <button
-            id="button7"
-            onmousedown="startTone(7)"
-            onmouseup="stopTone()"
-            onclick="guess(7)"
-          ></button>
-          <button
-            id="button8"
-            onmousedown="startTone(8)"
-            onmouseup="stopTone()"
-            onclick="guess(8)"
-          ></button>
-          <button
-            id="button9"
-            onmousedown="startTone(9)"
-            onmouseup="stopTone()"
-            onclick="guess(9)"
-          ></button>
+
+          <!-- game button area-->
+          <div id="gameButtonArea" class="gameGrid">
+            <button
+              id="button1"
+              onmousedown="startTone(1)"
+              onmouseup="stopTone()"
+              onclick="guess(1)"
+            ></button>
+            <button
+              id="button2"
+              onmousedown="startTone(2)"
+              onmouseup="stopTone()"
+              onclick="guess(2)"
+            ></button>
+            <button
+              id="button3"
+              onmousedown="startTone(3)"
+              onmouseup="stopTone()"
+              onclick="guess(3)"
+            ></button>
+            <button
+              id="button4"
+              onmousedown="startTone(4)"
+              onmouseup="stopTone()"
+              onclick="guess(4)"
+            ></button>
+            <button
+              id="button5"
+              onmousedown="startTone(5)"
+              onmouseup="stopTone()"
+              onclick="guess(5)"
+            ></button>
+            <button
+              id="button6"
+              onmousedown="startTone(6)"
+              onmouseup="stopTone()"
+              onclick="guess(6)"
+            ></button>
+            <button
+              id="button7"
+              onmousedown="startTone(7)"
+              onmouseup="stopTone()"
+              onclick="guess(7)"
+            ></button>
+            <button
+              id="button8"
+              onmousedown="startTone(8)"
+              onmouseup="stopTone()"
+              onclick="guess(8)"
+            ></button>
+            <button
+              id="button9"
+              onmousedown="startTone(9)"
+              onmouseup="stopTone()"
+              onclick="guess(9)"
+            ></button>
+          </div>
         </div>
       </div>
     </div>
