@@ -1,7 +1,7 @@
 //global constants
 const cluePauseTime = 333;
 const nextClueWaitTime = 1000;
-const holdTimeModifier = 0.975;
+const holdTimeModifier = 0.875;
 var gameTime = 20;
 
 
