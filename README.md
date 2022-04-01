@@ -46,16 +46,21 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+https://developer.mozilla.org/en-US/docs/Web/Guide
 
+	
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+	Beyond HTML, CSS, and Javascript, what other languages and technologies would i expect to see if i were to find a job as a junior full stack developer? There exists an overwhelming amount of options for self education on the internet; what are some reliable sources that I could use to advance my knowledge of web development? What are some commonly made beginner mistakes? I often find myself caught in the rut of trying to learn something new but finding myself unsure if it is worth the time and effort to pursue. What I’ve been doing lately is looking through job postings to see whether or not what i’m currently working on would be applicable to future careers; are there better ways of staying up to date on relevant technologies?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+
+I am happy with how my project turned out, but if given the chance, i would spend more time cleaning up my code. I reached a point where i was more focused on delivering a complete and working project than i was on maintaining readability. This was not the wisest decision, but regardless I do feel accomplished with what I’ve submitted. Additionally, i began working on adding pictures and custom audio to the buttons, but i was unable to resolve a few small issues that would have been easily solvable with a little extra time. Beyond fixing flaws, I was in the process of adding a difficulty setting and an endless play mode.
+
+
 
 
 
