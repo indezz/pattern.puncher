@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![https://imgur.com/QIGNGUH](https://imgur.com/QIGNGUH)
-![https://imgur.com/GuCPOB4]()
-![https://imgur.com/5aspfsD]()
+![https://imgur.com/QIGNGUH.gif](https://imgur.com/QIGNGUH)
+![https://imgur.com/GuCPOB4.gif]()
+![https://imgur.com/5aspfsD.gif]()
 
 ## Reflection Questions
 
