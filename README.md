@@ -60,6 +60,7 @@ Timeout demo
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
 I looked at a countless number of individual pages but the following sources proved to be most essential.
 
 [Mozilla MDN Docs](https://developer.mozilla.org/en-US/docs/Web/Guide)
@@ -81,7 +82,7 @@ Beyond HTML, CSS, and Javascript, what other languages and technologies would i 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
-I am happy with how my project turned out, but if given the chance, i would spend more time cleaning up my code. I reached a point where i was more focused on delivering a complete and working project than i was on maintaining readability. This was not the wisest decision, but regardless I do feel accomplished with what I’ve submitted. Additionally, i began working on adding pictures and custom audio to the buttons, but i was unable to resolve a few small issues that would have been easily solvable with a little extra time. Beyond fixing flaws, I was in the process of adding a difficulty setting and an endless play mode.
+I am happy with how my project turned out, but if given the chance, i would spend more time cleaning up my code. I reached a point where i was more focused on delivering a complete and working project than i was on maintaining readability. This was not the wisest decision, but regardless I do feel accomplished with what I’ve submitted. Additionally, i began working on adding pictures and custom audio to the buttons, but i was unable to resolve a few small issues that would have been easily solvable with a little extra time. Beyond fixing flaws, I was in the process of adding a difficulty setting and an endless play mode. It would have also been nice to make the site more accessible, perhaps mapping the on screen buttons to keyboard keys to assist anyone with mobility issues, or to aid in use with a screen reader.
 
 ## Interview Recording URL Link
 
