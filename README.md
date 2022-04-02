@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-For a demonstration of the audio functions, please visit [the project page] (https://pattern-puncher.glitch.me) 
+For a demonstration of the audio functions, please visit [the project page](https://pattern-puncher.glitch.me) 
 
 
 ![Imgur](https://imgur.com/QIGNGUH.gif)
