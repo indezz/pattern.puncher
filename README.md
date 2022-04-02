@@ -39,25 +39,22 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 For a demonstration of the audio functions, please visit [the project page](https://pattern-puncher.glitch.me) 
 
-\\\
-![Imgur](https://imgur.com/QIGNGUH.gif)
-
 Winning game demo, pattern speeds up as game progresses
 
-\\
-![Imgur](https://imgur.com/Z71kMo0.gif)
+![Imgur](https://imgur.com/QIGNGUH.gif)
 
 Random pattern demo
 
-\\
-![Imgur](https://imgur.com/GuCPOB4.gif)
+![Imgur](https://imgur.com/Z71kMo0.gif)
 
 Timeout demo
 
-\\
-![Imgur](https://imgur.com/5aspfsD.gif)
+![Imgur](https://imgur.com/GuCPOB4.gif)
 
 3 strikes demo
+
+![Imgur](https://imgur.com/5aspfsD.gif)
+
 
 
 ## Reflection Questions
