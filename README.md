@@ -41,15 +41,24 @@ For a demonstration of the audio functions, please visit [the project page](http
 
 
 ![Imgur](https://imgur.com/QIGNGUH.gif)
+
+
 Winning game demo, pattern speeds up as game progresses
 
 ![Imgur](https://imgur.com/Z71kMo0.gif)
+
+
 Random pattern demo
 
 ![Imgur](https://imgur.com/GuCPOB4.gif)
+
 Timeout demo
 
+
+
 ![Imgur](https://imgur.com/5aspfsD.gif)
+
+
 3 strikes demo
 
 
