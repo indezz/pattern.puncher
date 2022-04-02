@@ -63,8 +63,11 @@ Timeout demo
 I looked at a countless number of individual pages but the following sources proved to be most essential.
 
 [Mozilla MDN Docs](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
 [Stack Overlow](https://stackoverflow.com)
+
 [W3 Schools](https://www.w3schools.com)
+
 [Google](https://www.google.com.com)
 
 
