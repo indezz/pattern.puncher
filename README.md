@@ -43,7 +43,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![Imgur](https://imgur.com/GuCPOB4)
 ![Imgur](https://imgur.com/5aspfsD)
 [img]https://i.imgur.com/5aspfsD.gif[/img]
-<img src="https://imgur.com/5aspfsD"/>
+<gif src="https://imgur.com/5aspfsD"/>
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
