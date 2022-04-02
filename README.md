@@ -60,8 +60,13 @@ Timeout demo
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+I looked at a countless number of individual pages but the following sources proved to be most essential.
 
-https://developer.mozilla.org/en-US/docs/Web/Guide
+[Mozilla MDN Docs](https://developer.mozilla.org/en-US/docs/Web/Guide)
+[Stack Overlow](https://stackoverflow.com)
+[W3 Schools](https://www.w3schools.com)
+[Google](https://www.google.com.com)
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
