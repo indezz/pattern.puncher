@@ -39,9 +39,21 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+
+
 ![Imgur](https://imgur.com/QIGNGUH.gif)
-![Imgur](https://imgur.com/GuCPOB4)
-![Imgur](https://imgur.com/5aspfsD)
+Winning game, shows difficulty progression
+
+![Imgur](https://imgur.com/Z71kMo0.gif)
+Random pattern demo
+
+![Imgur](https://imgur.com/GuCPOB4.gif)
+Timeout demo
+
+
+![Imgur](https://imgur.com/5aspfsD.gif)
+3 strikes demo
 
 
 ## Reflection Questions
