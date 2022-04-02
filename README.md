@@ -37,20 +37,17 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-
+For a demonstration of the audio functions, please visit [the project page] (https://pattern-puncher.glitch.me) 
 
 
 ![Imgur](https://imgur.com/QIGNGUH.gif)
-Winning game, shows difficulty progression
+Winning game demo, pattern speeds up as game progresses
 
 ![Imgur](https://imgur.com/Z71kMo0.gif)
 Random pattern demo
 
 ![Imgur](https://imgur.com/GuCPOB4.gif)
 Timeout demo
-
 
 ![Imgur](https://imgur.com/5aspfsD.gif)
 3 strikes demo
